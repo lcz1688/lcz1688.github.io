@@ -1,0 +1,33 @@
+﻿{
+	"root": [{
+		"id": "1",
+		"name": "最稳线路",
+		"url": "https://jx.7cyd.com/?url=https://www.iqiyi.com/v_19rrd2anzs.html"
+
+	}, {
+		"id": "2",
+		"name": "最稳2",
+		"url": "http://vip.hao0606.com/?url="
+	}, {
+		"id": "3",
+		"name": "超级线",
+		"url": "https://vip.52jiexi.top/?url="
+	}, {
+		"id": "4",
+		"name": "高清线路",
+		"url": "https://www.nxflv.com/?url="
+	}, {
+		"id": "5",
+		"name": "高清2",
+		"url": "https://by.dybhn.com/index.php?url="
+	}, {
+		"id": "6",
+		"name": "高清3",
+		"url": "http://111.67.204.156?url="
+	}, {
+		"id": "7",
+		"name": "tx",
+		"url": "http://360jx.mf9900.com/?url="
+	}]
+
+}
